@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hansi Ashara 👋</h1>
+<h1 align="center">Hi there, I'm Hansi Ashara</h1>
 
 <h3 align="center">Information Technology Undergraduate @ University of Moratuwa, Sri Lanka</h3>
 
@@ -64,20 +64,13 @@
 
 ### Featured Projects
 
-#### [ReviewMate](https://github.com/HansiAshara/ReviewMate)
+#### [ReviewMate]([https://github.com/HansiAshara/ReviewMate](https://github.com/Rzmy7/hotel-and-restaurant-review-management-system.git))
 AI-powered SaaS platform that helps hotels and restaurants analyze customer reviews, generate insights, and create context-aware responses using NLP.
 `React.js` `FastAPI` `Microsoft SQL Server` `Docker` `AI/NLP`
 
 #### [SpendWise](https://github.com/HansiAshara/SpendWise)
 A personal finance tracking app to manage expenses and monitor spending habits, with analytics dashboards for smarter money decisions.
 `Next.js` `Express.js` `PostgreSQL` `Vercel`
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HansiAshara&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansiAshara&layout=compact&hide_border=true" width="38%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HansiAshara&hide_border=true" width="60%" />
