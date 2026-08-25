@@ -78,4 +78,4 @@ A personal finance tracking app to manage expenses and monitor spending habits, 
 
 ### Connect with Me
 
-<p align="center"> <a href="https://www.linkedin.com/in/hansi-ashara" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-HANSI%20ASHARA-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:hansiashara2@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-HANSIASHARA2%40GMAIL.COM-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"></p>
+<p align="center"> <a href="https://www.linkedin.com/in/hansi-ashara" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-HANSI%20ASHARA-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:hansiashara2@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-HANSIASHARA2%40GMAIL.COM-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"><i>Thanks for visiting my profile - feel free to explore my repositories!</i></p>
