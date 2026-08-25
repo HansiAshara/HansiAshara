@@ -29,14 +29,14 @@
 
 ### Technical Skills
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,c,python,js,react,nextjs,nodejs,express,fastapi,spring,html,css,mysql,postgres,git,github,docker,vscode,vercel" />
 </p>
 
 <table>
   <tr>
-    <th align="center">Category</th>
-    <th align="center">Technologies</th>
+    <th align="left">Category</th>
+    <th align="left">Technologies</th>
   </tr>
   <tr>
     <td align="left"><b>Languages</b></td>
