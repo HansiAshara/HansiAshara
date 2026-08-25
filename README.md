@@ -39,23 +39,23 @@
     <th align="center">Technologies</th>
   </tr>
   <tr>
-    <td align="center"><b>Languages</b></td>
+    <td align="left"><b>Languages</b></td>
     <td align="left">Java, C, JavaScript</td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
+    <td align="left"><b>Frontend</b></td>
     <td align="left">React, Next.js, HTML5, CSS3</td>
   </tr>
   <tr>
-    <td align="center"><b>Backend</b></td>
+    <td align="left"><b>Backend</b></td>
     <td align="left">Node.js, Express.js, FastAPI</td>
   </tr>
   <tr>
-    <td align="center"><b>Databases</b></td>
+    <td align="left"><b>Databases</b></td>
     <td align="left">MySQL, Microsoft SQL Server, PostgreSQL</td>
   </tr>
   <tr>
-    <td align="center"><b>Tools & Platforms</b></td>
+    <td align="left"><b>Tools & Platforms</b></td>
     <td align="left">Git, GitHub, Docker, VS Code, Vercel</td>
   </tr>
 </table>
@@ -64,7 +64,7 @@
 
 ### Featured Projects
 
-#### [ReviewMate]([https://github.com/HansiAshara/ReviewMate](https://github.com/Rzmy7/hotel-and-restaurant-review-management-system.git])
+#### [ReviewMate](https://github.com/Rzmy7/hotel-and-restaurant-review-management-system.git)
 AI-powered SaaS platform that helps hotels and restaurants analyze customer reviews, generate insights, and create context-aware responses using NLP.
 `React.js` `FastAPI` `Microsoft SQL Server` `Docker` `AI/NLP`
 
@@ -76,12 +76,6 @@ A personal finance tracking app to manage expenses and monitor spending habits, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HansiAshara&hide_border=true" width="60%" />
 </p>
 
-### Let's Connect
+### Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hansi-ashara" target="_blank">LinkedIn</a> ·
-  <a href="mailto:hansiashara2@gmail.com">Email</a> ·
-  <a href="https://github.com/HansiAshara?tab=repositories">Projects</a>
-</p>
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repositories!</i></p>
+<p align="center"> <a href="https://www.linkedin.com/in/hansi-ashara" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-HANSI%20ASHARA-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:hansiashara2@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-HANSIASHARA2%40GMAIL.COM-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"></p>
