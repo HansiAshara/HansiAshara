@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hansi Ashara</h1>
+<h1 align="center">Hi, I'm Hansi Ashara</h1>
 
 <h3 align="center">Information Technology Undergraduate at the University of Moratuwa, Sri Lanka</h3>
 
