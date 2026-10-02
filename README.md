@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td align="left"><b>Languages</b></td>
-    <td align="left">Java, C, JavaScript</td>
+    <td align="left">Java, JavaScript, TypeScript, Python, C, HTML, CSS</td>
   </tr>
   <tr>
     <td align="left"><b>Frontend</b></td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td align="left"><b>Backend</b></td>
-    <td align="left">Node.js, Express.js, FastAPI</td>
+    <td align="left">Spring Boot, Node.js, Express.js, FastAPI</td>
   </tr>
   <tr>
     <td align="left"><b>Databases</b></td>
-    <td align="left">MySQL, Microsoft SQL Server, PostgreSQL</td>
+    <td align="left">MySQL, Microsoft SQL Server, PostgreSQL, MongoDB</td>
   </tr>
   <tr>
     <td align="left"><b>Tools & Platforms</b></td>
-    <td align="left">Git, GitHub, Docker, VS Code, Vercel</td>
+    <td align="left">Git, GitHub, Docker, Postman, VS Code, Vercel</td>
   </tr>
 </table>
 
